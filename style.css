@@ -1,0 +1,31 @@
+ul{
+  list-style-type:none;
+  padding:0;
+   margin-top:100;
+  overlflow:hidden;
+  background-color:#90CAF9;
+  position:fixed;
+  width:100%;
+  text-align:center;
+}
+
+li a{
+  display:block;
+  color:#EDE7F6;
+  text-align:center;
+  padding:16px;
+  text-decoration:none;
+}  
+
+li a:hover{
+  background-color:#64B5F6;
+  text-decoration: underline;
+  color:#ECEFF1;
+  font-size:20px;
+  
+}
+
+#myCarousel{
+  width:100px;
+  height:100%;
+}
